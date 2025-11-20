@@ -1,53 +1,25 @@
-# <h1 align="center">Hi 👋, I'm Saurabh (SP)</h1>
-<h3 align="center">Aspiring Data Analyst </h3>
+# DS_Saurabh
+
+**Data Science / Analytics Project by Saurabh (SP)**
 
 ---
 
-### 🔥 About Me
-- 🎓 Master’s in Computer Management  
-- 📊 Passionate about **Data Analytics, Python, SQL, Excel & Power BI**  
-- 💻 Currently learning **Data Science and Data Analytics**  
-- 🚀 Goal: Get a job in **Data Analytics / Data Science**  
-- 📫 Reach me at: **saurabhtech3521gmail.com**
+## 🧪 About the Project  
+- This project is focused on **[what you are analysing]**  
+- It includes data cleaning, exploratory data analysis (EDA), modelling, and **[any dashboard or predictions]**  
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages:**  
-`Python` ·  `SQL`  · `MS-Excel`
-
-**Tools:**  
-`Excel` · `Power BI` · `MySQL` · `GitHub`  
-
-**Libraries & Frameworks:**  
-`Pandas` · `NumPy` · `Matplotlib` 
+## 🔧 Tech Stack & Tools  
+- Python (Pandas, NumPy)  
+- Matplotlib / Seaborn  
+- Scikit-learn (if you have models)  
+- Jupyter Notebooks  
+- Git & GitHub  
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh3521&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh3521&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Superstore Sales Dashboard** | Data analysis + interactive dashboard | Excel, Power BI |
-| **Room & Mess Finder System** | Full-stack project | Java, MySQL |
-
-
----
-
-### 🌐 Connect With Me
-- LinkedIn: *your link*
-- GitHub: *Saurabh3521*
-
----
-
-⭐ **If you like my work, support by giving a star to my repositories!**
+## 🚀 How to Run / Use  
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/SaurabhTech3521/ds_saurabh.git

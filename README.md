@@ -1,35 +1,35 @@
 # <h1 align="center">Hi 👋, I'm Saurabh (SP)</h1>
-<h3 align="center">Aspiring Data Analyst & Java Full-Stack Developer</h3>
+<h3 align="center">Aspiring Data Analyst </h3>
 
 ---
 
 ### 🔥 About Me
 - 🎓 Master’s in Computer Management  
 - 📊 Passionate about **Data Analytics, Python, SQL, Excel & Power BI**  
-- 💻 Currently learning **Java Full Stack + Data Science**  
+- 💻 Currently learning **Data Science and Data Analytics**  
 - 🚀 Goal: Get a job in **Data Analytics / Data Science**  
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **saurabhtech3521gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`Python` · `Java` · `JavaScript` · `SQL`
+`Python` ·  `SQL`  · `MS-Excel`
 
 **Tools:**  
 `Excel` · `Power BI` · `MySQL` · `GitHub`  
 
 **Libraries & Frameworks:**  
-`Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+`Pandas` · `NumPy` · `Matplotlib` 
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh3521&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh3521&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -40,13 +40,13 @@
 |--------|-------------|------|
 | **Superstore Sales Dashboard** | Data analysis + interactive dashboard | Excel, Power BI |
 | **Room & Mess Finder System** | Full-stack project | Java, MySQL |
-| **Loyalty Points Game Analysis** | Player ranking & bonus strategy | Python, SQL |
+
 
 ---
 
 ### 🌐 Connect With Me
 - LinkedIn: *your link*
-- GitHub: *your new username*
+- GitHub: *Saurabh3521*
 
 ---
 

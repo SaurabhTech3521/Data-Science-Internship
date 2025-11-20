@@ -39,7 +39,7 @@
 
 ### 🌐 Connect With Me
 - LinkedIn: *www.linkedin.com/in/saurabh-tech*
-- GitHub: *SaurabhTech3521*
+- GitHub: *[SaurabhTech3521](https://github.com/SaurabhTech3521/About-Me.git)*
 
 ---
 
